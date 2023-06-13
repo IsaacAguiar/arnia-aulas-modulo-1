@@ -1,0 +1,97 @@
+* {
+    font-family: 'Poppins', sans-serif;
+}
+
+.corpo {
+    width: 100%;
+    display: flex;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    height: 947px;
+    background: linear-gradient(243.36deg, #7526f59e 4%, #7f38f329 22.93%, #f5f5f51f 94%);
+}
+
+.menu {
+    display: flex;
+    position: absolute;
+    right: 120px;
+    top: 50px;
+    gap: 30px;
+}
+
+.logo {
+    position: absolute;
+    font-size: 35px;
+    left: 80px;
+    top: -20px;
+}
+
+.items {
+    font-weight: bold;
+    font-size: 30px;
+}
+
+a {
+    text-decoration: none;
+    font-weight: bold;
+    color: black;
+}
+
+.imagem {
+    position: absolute;
+    right: 200px;
+    top: 160px;
+}
+
+.olacliente {
+    position: absolute;
+    top: 250px;
+    left: 80px;
+    font-size: 2em;
+    color: #AE218F;
+}
+
+.lorem-titulo {
+    position: absolute;
+    width: 45%;
+    left: 80px;
+    top: 350px;
+    font-weight: bold;
+    font-size: 2em;
+}
+
+.lorem-texto {
+    position: absolute;
+    left: 80px;
+    top: 560px;
+    font-weight: bold;
+    font-size: 1em;
+}
+
+.entrar {
+    position: absolute;
+    top: 660px;
+    left: 80px;
+    background-color: #9D6DEC;
+    color: white;
+    width: 250px;
+    height: 50px;
+    font-size: 20px;
+    text-align: center;
+    border: none;
+    border-radius: 15px;
+}
+
+.login {
+    position: absolute;
+    top: 660px;
+    left: 365px;
+    color: rgb(97, 0, 255);
+    width: 250px;
+    height: 50px;
+    font-size: 20px;
+    text-align: center;
+    border: 2px solid rgb(97, 0, 255);
+    border-radius: 15px;
+}

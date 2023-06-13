@@ -1,0 +1,218 @@
+* {
+    font-family: 'Poppins', sans-serif;
+}
+
+.retangulo-roxo {
+    position: absolute;
+    width: 412px;
+    height: 340px;
+    left: 0px;
+    top: 0px;
+    background: #6950A1;
+}
+
+.logo {
+    position: absolute;
+    left: 27px;
+    top: 28px;
+}
+
+.titulo {
+    position: absolute;
+    width: 360px;
+    height: 156px;
+    left: 26px;
+    top: 74px;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 39px;
+    text-align: center;
+    color: white;
+}
+
+.titulo-de-curiosidade {
+    position: absolute;
+    width: 284px;
+    height: 327px;
+    left: 27px;
+    top: 328px;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 30px;
+    color: #2B2B2B;
+}
+
+.texto-lista {
+    position: absolute;
+    width: 311px;
+    height: 360px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #000000;
+    top: 560px;
+    left: 27px;
+}
+
+.retangulo-roxo-segundo {
+    position: absolute;
+    width: 412px;
+    height: 175px;
+    left: 0px;
+    top: 872px;
+    background: rgba(26, 16, 51, 0.9);
+}
+
+.retangulo-roxo-segundo-conteudo {
+    position: absolute;
+    width: 325px;
+    height: 120px;
+    left: 26px;
+    top: 17px;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 17px;
+    line-height: 26px;
+    text-align: center;
+    color: white;
+}
+
+.formulario {
+    box-sizing: border-box;
+    position: absolute;
+    width: 412px;
+    height: 369px;
+    left: 0px;
+    top: 1047px;
+    background: #FFFFFF;
+    border: 2px solid rgba(26, 16, 51, 0.9);
+}
+
+.nomes {
+    position: absolute;
+    width: 84px;
+    height: 24px;
+    left: 0px;
+    top: 21px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    text-align: center;
+    color: black;
+}
+
+.campo-nomes {
+    box-sizing: border-box;
+    position: absolute;
+    width: 359px;
+    height: 32px;
+    left: 17px;
+    top: 42px;
+    background: #FFFFFF;
+    border: 1px solid #6950A1;
+    border-radius: 5px;
+}
+
+input {
+    border: none;
+    width: 359px;
+    height: 32px;
+    border: 1px solid #6950A1;
+    box-sizing: border-box;
+    background: #FFFFFF;
+    border-radius: 5px;
+}
+
+.emails {
+    position: absolute;
+    width: 84px;
+    height: 24px;
+    left: 0px;
+    top: 80px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    text-align: center;
+    color: black;
+}
+
+.campo-emails {
+    box-sizing: border-box;
+    position: absolute;
+    width: 359px;
+    height: 32px;
+    left: 17px;
+    top: 104px;
+    background: #FFFFFF;
+    border: 1px solid #6950A1;
+    border-radius: 5px;
+}
+
+.telefones {
+    position: absolute;
+    width: 216px;
+    height: 24px;
+    left: -13px;
+    top: 142px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    text-align: center;
+    color: black;
+}
+
+.campo-telefone {
+    box-sizing: border-box;
+    position: absolute;
+    width: 359px;
+    height: 32px;
+    left: 17px;
+    top: 169px;
+    background: #FFFFFF;
+    border: 1px solid #6950A1;
+    border-radius: 5px;
+}
+
+.verificacao {
+    position: absolute;
+    width: 216px;
+    height: 24px;
+    left: -53px;
+    top: 212px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    text-align: center;
+    color: black;
+}
+
+.campo-verificacao {
+    box-sizing: border-box;
+    position: absolute;
+    width: 359px;
+    height: 32px;
+    left: 17px;
+    top: 238px;
+    background: #FFFFFF;
+    border: 1px solid #6950A1;
+    border-radius: 5px;
+}
+
+.botao {
+    position: absolute;
+    width: 359px;
+    height: 49px;
+    left: 17px;
+    top: 296px;
+    background: #6950A1;
+    border-radius: 20px;
+    color: white;
+    font-size: 15px;
+}

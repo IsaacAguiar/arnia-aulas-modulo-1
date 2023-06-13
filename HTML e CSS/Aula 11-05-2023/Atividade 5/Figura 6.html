@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Efetuar Pagamento</title>
+    <link rel="stylesheet" type="text/css" href="estilos.css">
+</head>
+
+<body>
+    <div class="menu">
+
+      <div>
+        <a class="voltar" href="../Atividade 4/Figura 5.html">Voltar</a>
+      </div>
+
+      <div>
+        <img src="../Imagens/logoa.png" width="150px" height="150px">
+      </div>
+
+      <div>
+        <H1>Valor: R$ 56,00</H1>
+      </div>
+
+      <div>
+        <form>
+            <label for="formadepagamentoescolhida">Forma de Pagamento:</label><br>
+            <select>
+                <option value="">Escolha uma Forma de Pagamento</option>
+                <option value="pix">Pix</option>
+                <option value="cartaodecredito">Cartão de Crédito</option>
+                <option value="cartaodedebito">Cartão de Débito</option>
+            </select><br><br>
+
+           <label for="numerodocartao">Número do Cartão:</label><br>
+           <input type="number" id="numerodocartao" name="numerodocartao" placeholder="Digite o Número do seu Cartão"><br><br>
+
+           <label for="cvv">CVV:</label><br>
+           <input type="number" id="cvv" name="cvv" placeholder="Digite o Número do CVV"><br><br>
+
+           <label for="vencimento">Número do Cartão:</label><br>
+           <input type="date" id="vencimento" name="vencimento"><br><br>
+        </form>
+      </div>
+
+      <div>
+        <a class="finalizacao" href="">Finalizar Pedido</a>
+      </div>
+    </div>
+</body>
+</html>

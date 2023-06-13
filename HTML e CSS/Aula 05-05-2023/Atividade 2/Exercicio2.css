@@ -1,0 +1,25 @@
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+td, th {
+    border: 1px solid black;
+}
+
+.Vermelho {
+    color: red;
+}
+
+.Verde {
+    color: green;
+}
+
+.Azul {
+    color: blue;
+}

@@ -1,0 +1,11 @@
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: pink;
+    border-top: 2px blue dashed;
+    border-left: 2px gold dotted;
+    border-bottom: 2px red double;
+    padding-top: 10px;
+    padding-left: 10px;
+    margin-top: 10px;
+    margin-left: 10px;
+}

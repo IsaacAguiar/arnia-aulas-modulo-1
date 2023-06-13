@@ -1,0 +1,18 @@
+body {
+    background-color: whitesmoke;
+    font-family:'Roboto', sans-serif;
+}
+
+.produto {
+    border: 1px solid black;
+    width: 18%;
+    text-align: center;
+    padding: 3em;
+    margin: 2em;
+    background-color: white;
+    border-radius: 5px;
+}
+
+li {
+    text-align: left;
+}

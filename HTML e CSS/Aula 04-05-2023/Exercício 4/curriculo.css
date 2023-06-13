@@ -1,0 +1,33 @@
+* {
+    font-family: 'Poppins', sans-serif;
+}
+
+#Titulo {
+    color: green;
+    font-size: 32px;
+}
+
+#Ana {
+    color: rgb(165, 42, 42);
+    font-size: 18px;
+}
+
+#Bruno {
+    color: rgb(0, 247, 255);
+    font-size: 18px;
+}
+
+#Carolina {
+    color: blueviolet;
+    font-size: 18px;
+}
+
+#Diego {
+    color:coral;
+    font-size: 18px;
+}
+
+#Elisa {
+    color: darkblue;
+    font-size: 18px;
+}

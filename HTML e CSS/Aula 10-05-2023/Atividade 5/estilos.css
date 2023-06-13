@@ -1,0 +1,18 @@
+body {
+    background-color: whitesmoke;
+    font-family:'Roboto', sans-serif;
+}
+
+.cachorro {
+    border: 1px solid black;
+    width: 18%;
+    text-align: center;
+    padding: 2em;
+    margin: 1em;
+    background-color: white;
+    border-radius: 3px;
+}
+
+li {
+    text-align: left;
+}

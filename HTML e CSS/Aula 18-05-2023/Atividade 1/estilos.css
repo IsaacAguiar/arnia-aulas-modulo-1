@@ -1,0 +1,187 @@
+* {
+    margin: 0px;
+    font-family: 'Poppins', sans-serif;
+}
+
+body {
+    background: rgba(0, 8, 29, 0.99);
+    width: 100%;
+}
+
+.imagem {
+    width: 100%;
+    height: 100vh;
+    background-image: linear-gradient(103.24deg, rgba(0, 8, 29, 0.94) 23.83%, rgba(0, 8, 29, 0.4) 96.1%), url(../Imagens/fundo.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    position: relative;
+}
+
+.menu {
+    width: 100%;
+    display: flex;
+    position: relative;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.botoes {
+    margin-top: 3em;
+    margin-right: 3em;
+}
+
+.opcoes {
+    margin-right: 6px;
+    font-size: 26px;
+    padding: 8px;
+    border-radius: 10px;
+    color: white;
+    background-color: #181818a3;
+}
+
+.botao {
+    font-size: 30px;
+    text-decoration: none;
+    color: white;
+    background-color: red;
+    padding: 6px;
+    border-radius: 10px;
+}
+
+.conteudo {
+    display: flex;
+    margin-top: 20em;
+    margin-left: -222em;
+    color: white;
+    flex-direction: column;
+}
+
+.titulo {
+    width: 60%;
+    font-size: 8rem;
+    line-height: 6.25rem;
+    font-weight: bold;
+}
+
+.subtitulo {
+    font-size: 4rem;
+    margin-top: 1em;
+    font-weight: bold;
+}
+
+.texto {
+    margin-top: 1em;
+    font-size: 3rem;
+    font-weight: bold;
+}
+
+.botoes2 {
+    margin-top: 3em;
+}
+
+.e-mails {
+    width: 27%;
+    font-size: 2em;
+    color: whitesmoke;
+    padding: 16px;
+    background-color: #181818a3;
+    border: 1px solid #858585;
+    border-radius: 10px;
+}
+
+.enviar {
+    background-color: red;
+    color: white;
+    padding: 15px;
+    font-size: 1.8em;
+    border: none;
+    font-weight: bold;
+    border-radius: 10px;
+    margin-left: 5px;
+}
+
+.container {
+    width: 93%;
+    height: 4700px;
+    background: linear-gradient(329deg, #000235 25.65%, #010F42 68%, #E40913 106.96%);
+    padding: 1.5rem 0;
+    display: flex;
+    position: relative;
+    margin-top: -550px;
+    border-radius: 25px;
+    margin-left: 8.4em;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+.items {
+    display: flex;
+    flex-direction: row;
+    margin-top: -10px;
+    color: white;
+}
+
+.titulos {
+    font-size: 6em;
+    width: 50%;
+    font-weight: bold;
+}
+
+.descricao {
+    width: 50%;
+    font-size: 4em;
+}
+
+.barras {
+    border-bottom: 10px solid rgba(0, 0, 0, 0.65);
+    width: 90%;
+    margin-bottom: 1em;
+    margin-top: 1em;
+}
+
+.titulo2 {
+    margin-top: 4em;
+    margin-left: 5em;
+    margin-right: -7em;
+}
+
+.descricao2 {
+    margin-top: 9em;
+    margin-left: -1089px;
+}
+
+.descricao3 {
+    margin-top: 9em;
+    width: 70%;
+    margin-left: -1695px;
+}
+
+.titulo3 {
+    margin-top: 3em;
+    margin-left: 390px;
+    width: 100%;
+}
+
+.imagens3 {
+    margin-top: 5em;
+    margin-left: 380px;
+}
+
+.titulo4 {
+    margin-top: 3em;
+    width: 100%;
+    margin-left: 210px;
+}
+
+.descricao4 {
+    margin-top: 9em;
+    width: 80%;
+    margin-left: -1550px;
+}  
+
+.imagens4 {
+    margin-top: 5em;
+    margin-left: -300px;
+}

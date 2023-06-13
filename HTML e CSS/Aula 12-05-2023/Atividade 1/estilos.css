@@ -1,0 +1,135 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-family: 'Poppins', sans-serif;
+}
+
+.menu {
+    width: 98.1%;
+    background-color: rgb(0, 85, 170);
+    height: 20px;
+    text-align: center;
+    padding: 20px;
+    position: fixed;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+    z-index: 999;
+    display: inline-block;
+}
+
+.menu-inicio {
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+    padding: 22px;
+}
+
+.menu-quem-somos {
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+    padding: 22px;
+}
+
+.menu-servicos {
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+    padding: 22px;
+}
+
+.menu-obras {
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+    padding: 22px;
+}
+
+.menu-contato {
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+    padding: 22px;
+}
+
+.imagem {
+    position: relative;
+}
+
+.texto {
+    margin: 5em;
+    text-align: justify;
+    position: relative;
+}
+
+.gerenciamento {
+    width: 87.7%;
+    background-color: rgb(0, 85, 170);
+    font-size: 35px;
+    padding: 130px;
+    text-align: center;
+    display: inline-block;
+    position: relative;
+}
+
+.gerenciamento-obras {
+    text-decoration: none;
+    color: white;
+    margin: 35px;
+}
+
+.execucao-obras {
+    text-decoration: none;
+    color: white;
+    margin: 35px;
+}
+
+.instalacoes-eletricas {
+    text-decoration: none;
+    color: white;
+    margin: 35px;
+}
+
+.imagens {
+ padding: 20px;
+ text-align: center;
+}
+
+.primeira-coluna {
+    margin: 50px;
+    display: inline-block;
+}
+
+.segunda-coluna {
+    margin: 50px;
+    display: inline-block;
+}
+
+.final {
+    background-color: rgb(0, 85, 170);
+    width: 97.9%;
+    height: 150px;
+    padding: 20px;
+    text-align: center;
+    position: relative;
+}
+
+.espaco {
+    margin: 1em;
+}
+
+.footer {
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+.botao {
+    position: fixed;
+    bottom: 30px;
+    right: 30px;
+}
+
+p {
+    font-size: 20px;
+}

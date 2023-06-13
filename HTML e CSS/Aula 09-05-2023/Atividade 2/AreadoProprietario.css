@@ -1,0 +1,26 @@
+* {
+    font-family: 'Poppins', sans-serif;
+}
+
+img {
+    width: 20px;
+    margin: 3px;
+}
+
+h1 {
+    font-size: 32px;
+    color: 	rgb(182, 40, 57);
+}
+
+a {
+    font-size: 16px;
+    color: 	rgb(182, 40, 57);
+}
+
+.Itens {
+    margin: 1em;
+}
+
+.Voltar {
+    color: gray;
+}

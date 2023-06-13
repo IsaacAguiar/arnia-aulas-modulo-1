@@ -1,0 +1,25 @@
+.Menu {
+    width: 150px;
+}
+
+.Item {
+    border-right: 7px orange solid;
+    border-left: 1px black solid;
+    border-bottom: 0px;
+    border-top: 1px black solid;
+    padding: 5px;
+}
+
+#Contato {
+    border-right: 7px orange solid;
+    border-left: 1px black solid;
+    border-bottom: 1px black solid; 
+    border-top: 1px black solid;
+    padding: 5px;
+}
+
+a {
+    color: orange;
+    padding: 7px;
+    text-decoration: none;
+}

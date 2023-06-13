@@ -1,0 +1,40 @@
+body {
+    background-color: rgb(255, 255, 200);
+    font-family: 'Poppins', sans-serif;
+    color: rgb(161, 3, 3);
+}
+
+.menu {
+    background-color: whitesmoke;
+    width: 24%;
+    margin: 10em auto;
+    padding: 4em;
+    border: none;
+    text-align: center;
+    border-radius: 5px;
+    -webkit-box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.3);
+    -moz-box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.3);
+    box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.3);
+}
+
+div {
+    padding: 1em;
+}
+
+.negrito {
+    color: rgb(161, 3, 3);
+    font-weight: bold;
+    font-size: 40px;
+}
+
+p {
+    font-style: italic;
+}
+
+.sublinhado {
+    text-decoration: underline;
+}
+
+.voltar {
+    color: gray;
+}

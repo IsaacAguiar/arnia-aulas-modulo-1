@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fazer Pedido</title>
+    <link rel="stylesheet" type="text/css" href="estilos.css">
+</head>
+
+<body>
+    
+  <div class="menu">
+
+    <div class="endereco">
+
+     <div>
+        <a class="voltar" href="../Atividade 3/Figura 4.html">Voltar</a>
+     </div>
+
+     <div>
+        <img src="../Imagens/logoa.png" width="150px" height="150px">
+     </div>
+
+     <div>
+        <h1>Endereço</h1>
+     </div>
+
+     <div>
+        <form>
+            <div>
+            <label for="cep">CEP:</label><br>
+            <input type="text" id="cep" name="cep" placeholder="Digite seu CEP">
+            </div>
+
+            <div>
+            <label for="rua">Rua::</label><br>
+            <input type="text" id="rua" name="rua" placeholder="Digite sua Rua">
+            </div>
+
+            <div>
+            <label for="numero">Número:</label><br>
+            <input type="number" id="numero" name="numero" placeholder="Digite o Número de sua Casa">
+            </div>
+
+            <div>
+            <label for="bairro">Bairro:</label><br>
+            <input type="text" id="bairro" name="bairro" placeholder="Digite seu Bairro">
+            </div>
+        </form>
+     </div>
+    </div>
+
+    <div class="comidas">
+        <div>
+            <h1>Prato</h1>
+        </div>
+
+        <div>
+           <div class="comida">
+
+            <label for="prato">Prato:</label><br>
+            <select name="comida" id="comida selecionada">
+                <option value="">Selecione um Prato</option>
+                <option value="x-tudo">X-Tudo</option>
+                <option value="hamburguer">Hamburguer</option>
+                <option value="pastel">Pastel</option>
+            </select><br><br>
+
+            <label  for="quantidade">Quantidade:</label>
+            <input type="number" id="quantidade" name="quantidade" placeholder="Digite a Quantidade">
+           </div>
+           
+           <div>
+            <h1>Bebidas</h1>
+           </div>
+
+           <div class="bebidas">
+            <label for="bebida">Bebida:</label><br>
+            <select name="bebida" id="bebida selecionada">
+             <option>Selecione uma Bebida</option>
+             <option>Refrigerante</option>
+             <option>Suco de Laranja</option>
+            </select><br><br>
+
+            <label  for="quantidadesucodelaranja">Quantidade:</label>
+            <input type="number" id="quantidadesucodelaranja" name="quantidadesucodelaranja" placeholder="Digite a Quantidade">
+           </div>
+        </div>
+
+        <div>
+            <a class="pagamento" href="../Atividade 5/Figura 6.html">Efetuar Pagamento</a>
+        </div>
+    </div>
+  </div>
+
+</body>
+</html>

@@ -1,0 +1,86 @@
+* {
+    font-family: 'Poppins', sans-serif;
+}
+
+table {
+    width: 1900px;
+    text-align: center;
+    border-spacing: 0;
+}
+
+.cabecalho {
+    height: 50px;
+    color: white;
+    background-color: #0ca2ed;
+    border-radius: 10px;
+    font-size: 22px;
+    font-weight: bold;
+    text-align: center;
+    padding: 13px 18px 0px 13px;
+}
+
+.primeira-coluna, .terceira-coluna, .quinta-coluna {
+    font-size: 16px;
+}
+
+.segunda-coluna, .quarta-coluna {
+    background-color: whitesmoke;
+    font-size: 16px;
+}
+
+.quitada {
+    border: none;
+    border-radius: 10px;
+    color: #00c247;
+    background-color: #c7ecd4;
+    padding: 14px;
+}
+
+.pendente {
+    border: none;
+    color: #ff0000;
+    background-color: #fdcdcd;  
+    border-radius: 10px;
+    padding: 10px;
+}
+
+.valorpago {
+    width: 10%;
+    background-color: whitesmoke;
+    border: 1px solid rgba(0, 0, 0, 0.2);
+    border-radius: 10px;
+    padding: 8px;
+}
+
+.editar {
+    width: 70px;
+    height: 40px;
+    font-size: 16px;
+    color: #0ca2ed;
+    background-color: white;
+    border: 1px solid #0ca2ed;
+    border-radius: 10px;
+}
+
+.excluir {
+    width: 70px;
+    height: 40px;
+    font-size: 16px;
+    color: #ff0000;
+    background-color: white;
+    border: 1px solid #ff0000;
+    border-radius: 10px;
+}
+
+td {
+    padding: 5px;
+    height: 50px;
+}
+
+.solicitacao {
+    border-radius: 10px 0px 0px 10px;
+}
+
+.acoes {
+    border-radius: 0px 10px 10px 0px;
+}

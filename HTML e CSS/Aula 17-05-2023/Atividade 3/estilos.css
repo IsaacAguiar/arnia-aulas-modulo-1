@@ -1,0 +1,71 @@
+* {
+    font-family: 'Poppins', sans-serif;
+    text-decoration: none;
+}
+
+body {
+    background-color: #fff2ee;
+}
+
+h1 {
+    letter-spacing: 0.5px;
+    font-weight: bold;
+    font-size: 28px;
+    padding: 28px;
+    text-align: center;
+    color: rgb(255, 145, 0);
+}
+
+.container {
+    background-color: white;
+    width: 1400px;
+    height: 100px;
+    display: flex;
+    margin: 20px auto;
+    border-radius: 15px;
+    -webkit-box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.2);
+    -moz-box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.2);
+    box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.2);
+}
+
+.imagem {
+    margin: 1em;
+}
+
+.titulo {
+    margin-top: 5px;
+    margin-left: 10px;
+}
+
+.produtos {
+    margin-top: 2em;
+    margin-left: -98px;
+}
+
+.produtos2 {
+    margin-top: 2em;
+    margin-left: -108px;
+}
+
+.produtos3 {
+    margin-top: 2em;
+    margin-left: -119px;
+}
+
+.produtos4 {
+    margin-top: 2em;
+    margin-left: -38px;
+}
+
+h3 {
+    color: black;
+}
+
+p {
+    color: hsla(0, 0%, 0%, 0.527);
+}
+
+.entrega {
+    font-weight: bold;
+    color:  rgb(255, 145, 0);
+}

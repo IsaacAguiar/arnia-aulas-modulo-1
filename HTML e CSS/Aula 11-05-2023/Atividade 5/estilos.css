@@ -1,0 +1,32 @@
+body {
+    background-color: rgb(255, 255, 200);
+    font-family: 'Poppins', sans-serif;
+    color: rgb(161, 3, 3);
+}
+
+.menu {
+    background-color: whitesmoke;
+    width: 15%;
+    padding: 3em;
+    margin: 10em auto;
+    border: none;
+    border-radius: 5px;
+    text-align: center;
+    -webkit-box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.3);
+    -moz-box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.3);
+    box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.3);
+}
+
+input {
+    width: 90%;
+}
+
+.voltar {
+    color: gray;
+}
+
+.finalizacao {
+    color: rgb(161, 3, 3);
+    font-size: 32px;
+    font-weight: bold;
+}

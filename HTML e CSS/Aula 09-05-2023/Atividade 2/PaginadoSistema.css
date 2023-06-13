@@ -1,0 +1,20 @@
+* {
+    font-family: 'Poppins', sans-serif;
+    color: 	rgb(182, 40, 57);
+}
+
+img {
+    width: 50px;
+}
+
+h1 {
+    font-size: 32px;
+}
+
+a {
+    font-size: 16px;
+}
+
+div {
+    margin: 1em;
+}
