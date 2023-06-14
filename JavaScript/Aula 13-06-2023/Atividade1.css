@@ -22,3 +22,8 @@
     font-weight: 400;
     color: green;
 }
+
+.modoEscuro {
+    background-color: black;
+    color: white;
+}

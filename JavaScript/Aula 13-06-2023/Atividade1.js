@@ -12,10 +12,11 @@ const carregarEstilo = () => {
 
     const paragrafos = document.getElementsByTagName('p')
     console.log(paragrafos)
-
     const paragrafosArray = Array.from(paragrafos)
-
     paragrafosArray.forEach((paragrafo) => {
         paragrafo.classList.add('paragrafo')
     })
+
+    const modoEscuro = document.getElementsByTagName("body")
+    modoEscuro.classList.add("body")
 }
