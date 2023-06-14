@@ -1,0 +1,28 @@
+* {
+    font-family: 'Poppins', sans-serif;
+    margin: 0px;
+}
+
+body {
+    text-align: center;
+}
+
+.containerMenu {
+    background-color: #6950a1;
+    width: 1920px;
+    height: 80px;
+}
+
+.imagem {
+    margin-top: 14px;
+    margin-left: -1720px;
+}
+
+.titulo {
+    margin-top: 30px;
+    margin-bottom: 25px;
+}
+
+.hidden {
+    display: none;
+}

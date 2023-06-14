@@ -17,6 +17,4 @@ const carregarEstilo = () => {
         paragrafo.classList.add('paragrafo')
     })
 
-    const modoEscuro = document.getElementsByTagName("p")
-    modoEscuro.classList.add("modoEscuro")
 }
