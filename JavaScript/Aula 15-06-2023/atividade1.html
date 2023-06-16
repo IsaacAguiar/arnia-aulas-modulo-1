@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link href="atividade1.css" rel="stylesheet"/>
+    <script src="atividade1.js"></script>
+</head>
+
+<body>
+
+    <div class="formulario">
+
+        <h1>Cadastro do Produto</h1>
+
+        <form>
+            <label for="codigo">Código</label>
+            <input type="number" name="codigo">
+            <div class="campoObrigatorio">Campo obrigatório</div>
+
+            <label for="nome">Nome</label>
+            <input type="text" name="nome">
+            <div class="campoObrigatorio">Campo obrigatório</div>
+
+            <label for="categoria">Categoria</label>
+                <select name="servicos" id="categoria">
+                    <option>Selecione uma Opção</option>
+                    <option>Limpeza</option>
+                    <option>Alimento</option>
+                    <option>Higiene</option>
+                </select>
+            <div class="campoObrigatorio">Campo obrigatório</div>
+
+            <label for="preco">Preço</label>
+            <input type="number" name="preco">
+            <div class="campoObrigatorio">Campo obrigatório</div>
+
+            <label for="quantidade">Quantidade</label>
+            <input type="number" name="quantidade">
+            <div class="campoObrigatorio">Campo obrigatório</div>
+
+            <button>Cadastrar</button>
+        </form>
+
+    </div>
+
+</body>
+</html>

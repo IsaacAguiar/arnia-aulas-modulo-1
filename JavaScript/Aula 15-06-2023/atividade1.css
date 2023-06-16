@@ -1,0 +1,52 @@
+* {
+    font-family: 'Poppins', sans-serif;
+}
+
+.formulario {
+    display: flex;
+    flex-direction: column;
+    width: 400px;
+    height: 490px;
+    padding-left: 2em;
+    padding-top: 1em;
+    border: 0px solid;
+    border-radius: 8px;
+    -webkit-box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.5);
+    -moz-box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.5);
+    box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.5);
+}
+
+input {
+    width: 87%;
+    height: 24px;
+    margin-top: 10px;
+    border: 2px solid;
+    border-radius: 6px;
+    border-color: rgb(111, 177, 11);
+    margin-bottom: 10px;
+}
+
+select {
+    width: 89%;
+    height: 28px;
+    margin-bottom: 12px;
+    margin-top: 10px;
+    border: 2px solid;
+    border-color: rgb(111, 177, 11);
+    border-radius: 6px;
+}
+
+button {
+    width: 89%;
+    height: 40px;
+    font-size: 18px;
+    margin-top: 1em;
+    color: white;
+    border: 0px solid;
+    border-radius: 16px;
+    background-color: #00a7e9;
+}
+
+.campoObrigatorio {
+    display: none;
+}
