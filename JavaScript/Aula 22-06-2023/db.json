@@ -1,0 +1,34 @@
+{
+    "noticias": [
+        {
+            "titulo": "Descoberta de novo planeta habitável reacende esperanças de vida extraterrestre",
+            "imagem": "https://1884403144.rsc.cdn77.org/foto/perseidy/NDgweDMwNi9zbWFydC9pbWc/2402743.jpg?v=0&st=UZIan_Xr3ItVC_a7FTDHvoEd95a92WIK8nFimZ7UIRo&ts=1600812000&e=0",
+            "texto": "Astrônomos identificaram um planeta com características similares à Terra, localizado na chamada zona habitável de sua estrela. A descoberta despertou entusiasmo na comunidade científica, pois aumentam as chances de existir vida fora do nosso planeta. Estudos adicionais serão realizados para determinar se o planeta abriga algum tipo de vida. ",
+            "id": 1
+        },
+        {
+            "titulo": "Nova vacina contra o câncer mostra resultados promissores em estudos preliminares",
+            "imagem": "https://assets-global.website-files.com/62cc56fc2b55bd9bafba3478/62ec772f861f985558d564b8_Produ%C3%A7%C3%A3o%20cient%C3%ADfica%20como%20inserir%20no%20curr%C3%ADculo%20na%20gradua%C3%A7%C3%A3o.jpeg",
+            "texto": "Pesquisadores anunciaram avanços significativos no desenvolvimento de uma vacina revolucionária contra o câncer. Testes iniciais em camundongos mostraram uma resposta imunológica robusta e redução significativa no crescimento de tumores. Os cientistas estão otimistas quanto ao potencial dessa vacina para o tratamento e prevenção do câncer em humanos.",
+            "id": 2
+        },
+        {
+            "titulo": "Empresa de tecnologia anuncia lançamento de carro autônomo acessível",
+            "imagem": "https://images.ctfassets.net/ucp6tw9r5u7d/27Xnltj9HZnf4febEHGhTA/223fc4a22db195d70eb194f9f05f9d3f/A-evolu__o-dos-ve_culos-aut_nomos.jpeg",
+            "texto": "Uma renomada empresa de tecnologia revelou seu mais recente projeto: um carro autônomo acessível para o público em geral. O veículo conta com sistemas avançados de inteligência artificial e sensores de última geração, proporcionando uma condução segura e eficiente. A novidade promete revolucionar a indústria automotiva, tornando a tecnologia autônoma mais acessível e com potencial para transformar a mobilidade urbana.",
+            "id": 3
+        },
+        {
+            "titulo": "Descoberta histórica: sítio arqueológico revela civilização perdida",
+            "imagem": "https://www.adventureclub.com.br/wp-content/uploads/2015/08/Gravuras-no-Parque-Nacional-da-Serra-da-Capivara-galeria.png",
+            "texto": "Arqueólogos desenterraram ruínas de uma antiga cidade que havia sido perdida para a história. A descoberta revela detalhes impressionantes sobre uma civilização desconhecida até então. Artefatos e estruturas preservadas fornecem pistas sobre a cultura, a organização social e a tecnologia empregada por esse povo antigo. O achado promete reescrever livros de história e expandir nosso conhecimento sobre as civilizações antigas.",
+            "id": 4
+        },
+        {
+            "titulo": "Startup inovadora lança dispositivo capaz de purificar água usando energia solar",
+            "imagem": "https://ciclovivo.com.br/wp-content/uploads/2019/09/jovem-filtro-de-%C3%A1gua-pluvial-1024x682.jpg",
+            "texto": "Uma startup de tecnologia apresentou ao mundo um dispositivo revolucionário que utiliza energia solar para purificar a água de forma eficiente e acessível. Esse avanço pode ter um impacto significativo nas regiões onde o acesso à água potável é limitado, oferecendo uma solução sustentável para a escassez hídrica. A inovação tem potencial para melhorar a qualidade de vida de milhões de pessoas em todo o mundo.",
+            "id": 5
+        }
+    ]
+}

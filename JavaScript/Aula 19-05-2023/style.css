@@ -1,4 +1,17 @@
+li {
+    box-sizing: border-box;
+    width: 590px;
+    height: 490px;
+    margin: 2em;
+    background: #E9E9E9;
+    border: 1px solid #777777;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.3);
+    border-radius: 12px;
+}
+
 .imagem {
-    height: 250px;
-    width: 200px;
+    margin-top: 45px;
+    margin-left: 20px;
+    width: 250px;
+    height: 400px;
 }
