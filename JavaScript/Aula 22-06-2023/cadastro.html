@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cadastro</title>
+    <link href="estilos.css" rel="stylesheet">
+    <script src="./cadastro.js" defer></script>
+</head>
+
+<body>
+    <div class="header">
+        <img class="imagem" src="./Imagens/image.png" width="128px" height="38px">
+        <h1 class="titulo">Nova Notícia</h1>
+        <button class="botao" onclick="voltar()">Voltar</button>
+    </div>
+
+    <form id="formulario">
+        <section>
+            <label for="titulo">Título</label>
+            <input id="titulo" name="titulo">
+        </section>
+        
+        <section>
+            <label for="destaque">Imagem de Destaque</label>
+            <input id="destaque" name="destaque">
+        </section>
+
+        <section>
+            <labe for="texto">Descrição</labe>
+            <textarea id="texto" name="texto" placeholder="Digite a Descrição"></textarea>
+        </section>
+
+        <button type="submit">SALVAR</button>
+    </form>
+</body>
+</html>

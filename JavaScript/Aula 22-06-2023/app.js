@@ -16,7 +16,7 @@ const mostrarNoticia = (parametro) => {
     });
 }
 
-const novaNoticia = async () => {
+const mostrarNoticias = async () => {
     try{
         const apiResponse = await fetch('http://localhost:3000/noticias')
         const noticias = await apiResponse.json()
@@ -25,4 +25,8 @@ const novaNoticia = async () => {
     } catch(error){
         console.error(error)
     }
+}
+
+const novaNoticia = () => {
+    window.location = "cadastro.html"
 }
