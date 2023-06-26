@@ -11,6 +11,10 @@ const mostrarNoticia = (parametro) => {
                 <h1 class="titulos">${element.titulo}</h1>
                 <p class="textos">${element.texto}</p>
             </div>
+            <div class="botoes">
+                <button class="excluir" onclick="excluirNoticia()">Excluir</button>
+                <button class="editar" onclick="editarNoticia()">Editar</button>
+            </div>
         </div>
         `
     });
